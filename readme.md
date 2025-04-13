@@ -24,7 +24,7 @@ Geavanceerde chat applicatie met Socket.io en Express, gebaseerd op de tutorial 
 - Clone repo met terminal in huidige directory.
 
 ```bash
-  git clone basic-chat-socketio .
+  git clone advanced-chat-socketio .
 ```
 
 - Open het project in VSCode.
@@ -46,9 +46,5 @@ Geavanceerde chat applicatie met Socket.io en Express, gebaseerd op de tutorial 
   npm run dev
 ```
 
-- Open directory "app".
-- Open een browser-tab door te klikken met rechter muisknop op index.html en open met LIVE-server.
-- Open een tweede browser-tab met LIVE-server.
-
-- Voer een berichten in, beide vensters krijgen nu de berichten.
+- Open twee browser tabs en ga naar localhost:3500
 - Done!
