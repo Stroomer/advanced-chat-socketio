@@ -2,17 +2,22 @@
 
 # Basic chat application
 
-Hele simpele chat applicatie met Socket.io en express, gebaseerd op de tutorial van Dave Gray.
+Geavanceerde chat applicatie met Socket.io en Express, gebaseerd op de tutorial van Dave Gray.
 
 ## Tech Stack
 
 **Client:** HTML, CSS, JS
 
-**Server:** Node, Socket.io
+**Server:** Node, Express, Socket.io
 
 ## Features
 
-- Berichten sturen met socket.io.
+- sending messages
+- receiving messages
+- typing activity by other users
+- entering a room
+- leaving a room
+- disconnecting
 
 ## Installatie
 
